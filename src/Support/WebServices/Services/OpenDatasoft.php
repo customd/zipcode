@@ -13,7 +13,7 @@ return [
 	'iterate_on' => 'records',
 
 	'fields' => [
-    'city'  => 'fields.city'
+    		'city'  => 'fields.city',
 		'zip' => 'fields.zip',
 
 		'country_id' => null,
