@@ -17,7 +17,7 @@ return [
 	'iterate_on' => 'code',
 
 	'fields' => [
-		'postal_code' => 'postalcode',
+		'zip' => 'postalcode',
 
 		'state_name' => 'adminName1',
 
