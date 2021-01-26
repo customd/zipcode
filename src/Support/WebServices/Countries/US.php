@@ -33,6 +33,16 @@ return [
 				'country' => $country,
 			],
 		],
+		[
+			'name' => 'OpenDatasoft',
+
+			'zip_format' => '99999',
+
+		
+		],
+		
+		
+		
 
 	
 
