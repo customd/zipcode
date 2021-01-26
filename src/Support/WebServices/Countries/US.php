@@ -34,21 +34,7 @@ return [
 			],
 		],
 
-		[
-		 'name' => 'elevenbasetwo',
-			'url' => 'http://zip.elevenbasetwo.com',
-			'query' => '/v2/US/%zip_code%',
-			'zip_format' => '99999',
-			'fields' => [
-				'zip' => 'zip',
-				'state_id' => null,
-				'state_name' => 'state',
-				'city' => 'city',
-				'country_id' => 'country',
-				'street_kind' => null,
-				'street_name' => null,
-			],
-		],
+	
 
 	],
 
