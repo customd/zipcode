@@ -23,7 +23,7 @@ return [
 
 		'state_name' => 'places.0.state',
 
-		'place' => 'places.0.place name',
+		'city' => 'places.0.place name',
 
 		'longitude' => 'places.0.longitude',
 
